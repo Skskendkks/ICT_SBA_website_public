@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <meta name="description"
+    content="Sham Shui Po Food Guide is a website that introduces various food options in Sham Shui Po district. Here, you can find a variety of cuisines, including local street food, specialty shops, cafes, and authentic local dishes. If you want to discover the culinary delights and hidden gems of Sham Shui Po, welcome to the Sham Shui Po Food Guide.">
+  <meta name="keywords" content="Sham Shui Po, food, guide, restaurants, places to go">
+  <link rel="icon" href="img/logo/sham_shui_po_food_guide_Logo-tran.png" type="image/png" alt="Website Logo">
+  <link rel="shortcut icon" href="img/logo/sham_shui_po_food_guide_Logo-tran.png" type="image/png" alt="Website Logo">
+  <title>Sham Shui Po Food Guide</title>
+
+</head>
+
+<body>
+  <div id="top"></div>
+  <header class="english hide-in-printonly"></header>
+  <nav class="english hide-in-printonly"></nav>
+  <div class="container" id="main">
+    <audio controls class="show-in-textonly">
+      <source src="audio/report-problem-chi.MP3" type="audio/mpeg">
+      Your browser does not support the audio element.<a href="audio/report-problem-eng.MP3">Click here to download the
+        audio.</a>
+    </audio>
+    <form>
+      <h2>Report a Problem</h2>
+      <h3>Type of Problem</h3>
+      <label>
+        <input type="radio" name="problem" value="restaurant_content_error" required>
+        Error in restaurant content (e.g., closure, outdated information)
+      </label>
+      <br>
+      <label>
+        <input type="radio" name="problem" value="website_display_error" required>
+        Website issue (e.g., technical problems, slow loading, functionality failure)
+      </label>
+      <br>
+      <label>
+        <input type="radio" name="problem" value="website_improvement" required>
+        Website improvement (e.g., user interface, search functionality, incomplete review system)
+      </label>
+      <br>
+      <label>
+        <input type="radio" name="problem" value="security_issue" required>
+        Security issue (website vulnerability)
+      </label>
+      <br>
+      <label>
+        <input type="radio" name="problem" value="Comment section issue" required>
+        Comment section issue (e.g., inappropriate comments, false reviews, offensive language)
+      </label>
+      <br>
+      <label>
+        <input type="radio" name="problem" value="other" required>
+        Other
+      </label>
+      <p>Upload a screenshot to assist us in resolving the problem. (Max file size: 25 MB)</p>
+      <input type="file" name="file" value="Choose file" required />
+      <br><br>
+      <h3>Text Description</h3>
+      <textarea class="yellow-textarea" name="description" required></textarea>
+      <br><br>
+      <input class="yellow-btn" type="submit" name="submit" value="Submit" />
+      <input class="yellow-btn" type="reset" name="reset" value="Reset" />
+    </form>
+    </br>
+    <button class="show-in-printonly" show-href="." onClick="onTogglePrintonly()">back</button>
+    <a class="hide-in-printonly yellow-btn desktop" href="#top">Back to Top</a>
+  </div>
+  </div>
+  <footer class="english hide-in-printonly"></footer>
+  <script src="script.js"></script>
+</body>
+
+</html>

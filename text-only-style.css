@@ -1,0 +1,71 @@
+.yellow-btn {
+  display: block;
+}
+
+.mobile {
+  display: none !important;
+}
+
+@media screen and (max-width: 600px) {
+
+  .yellow-textarea {
+    width: 100%;
+  }
+    
+  #title-input {
+    display: block;
+    margin-bottom: 14px;
+    width: 100%;
+  }
+
+  #content-input {
+    margin-bottom: 14px;
+    display: block;
+    width: 100%;
+    height: 10em;
+  }
+}
+
+
+#header-search {
+  margin: 1em 0;
+}
+
+.yellow-link {
+  display: block;
+  margin: 10 10px;
+}
+
+#footer-contact a {
+  display: block;
+}
+
+#title-input {
+  display: block;
+  margin-bottom: 14px;
+  width: 50%;
+}
+
+#content-input {
+    margin-bottom: 14px;
+    display: block;
+    width: 50%;
+  height: 10em;
+}
+
+.yellow-textarea {
+  width: 50%;
+  height: 10em;
+}
+
+.rest-card-intro h1 {
+  font-size: 18px;
+}
+
+.hide-in-textonly {
+  display: none;
+}
+
+.show-in-printonly {
+  display: none;
+}-

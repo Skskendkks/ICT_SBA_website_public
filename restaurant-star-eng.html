@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <meta name="description"
+    content="This website is a food guide for Sham Shui Po district. You can find various cuisine here, including popular food, unique shops and cafes, as well as local delicacies. If you want to learn about the food and places to go in Sham Shui Po district, welcome to the Sham Shui Po Food Guide.">
+  <meta name="keywords" content="Sham Shui Po, food, guide, restaurants, places to go">
+  <link rel="icon" href="img/logo/sham_shui_po_food_guide_Logo-tran.png" type="image/png" alt="Website Logo">
+  <title>Sham Shui Po Food Guide</title> <!-- <link href="style.css" rel="stylesheet" type="text/css" /> -->
+  <!-- <link href="text-only-style.css" rel="stylesheet" type="text/css" /> -->
+</head>
+
+<body>
+  <div id="top"></div>
+  <header class="english hide-in-printonly"></header>
+  <nav class="english hide-in-printonly"></nav>
+  <div class="container" id="main"><audio controls class="show-in-textonly">
+      <source src="audio/restaurant-star-chi.MP3" type="audio/mpeg">
+      Your browser does not support the audio element.
+      <a href="audio/restaurant-star-eng">Click here to download the audio.</a>
+    </audio>
+    <div id="rest-stars-div">
+
+      <div class=index-text-box>
+
+        <h2>Vote for Monthly Restaurant Stars</h2>
+
+      </div>
+
+      <div id="rest-stars-text">
+
+        Choose your favorite restaurant stars, only up to three selections per person.
+
+      </div>
+
+      <form>
+
+        <div id="rests">
+
+        </div>
+
+        <input class="yellow-btn" type="submit" value="Submit" />
+
+        <input class="yellow-btn" type="reset" value="Reset" />
+
+      </form>
+
+    </div>
+    <button class="show-in-printonly" show-href="." onClick="onTogglePrintonly()">back</button></br>
+    <a class="hide-in-printonly yellow-btn desktop" href="#top">Back to Top</a>
+  </div>
+
+
+  </div>
+  <footer class="english hide-in-printonly"></footer>
+  <script id="rest-card-template" type="x-tmpl-mustache">
+        <div class="rest-stars-card">
+      <div class="rest-stars-checkbox">
+        <input type="checkbox" name="restaurant" value="{{ id }}" onchange="onCheckboxChange()">
+      </div>
+      <div class="rest-card-photo">
+        <img class="hide-in-textonly" src="{{ img_url }}" alt="restaurant photo" />
+      </div>
+      <div class="rest-card-intro">
+        <h1><a href="restaurant-eng.html?id={{ id }}" style="text-decoration: none; color: black;">{{ name.en-us }}</a></h1>
+        <div class="rest-card-type">{{ type.en-us }} {{ stars }}
+          <svg class="hide-in-textonly" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 22" fill="none">
+            <path
+              d="M12 0L14.6942 8.2918H23.4127L16.3593 13.4164L19.0534 21.7082L12 16.5836L4.94658 21.7082L7.64074 13.4164L0.587322 8.2918H9.30583L12 0Z"
+              fill="#FFF06E" />
+          </svg>
+        </div>
+        <h3 class="rest-card-number">{{ phone-number }}</h3>
+      </div>
+    </div>
+  </script>
+  <script src="https://unpkg.com/mustache@latest"></script>
+  <script src="script.js"></script>
+  <script src="script/restaurant-star.js"></script>
+</body>
+
+</html>

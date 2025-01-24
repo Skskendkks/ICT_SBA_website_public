@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <meta name="description"
+    content="「深水埗區美食指南」是一個介紹深水埗區美食的網站。在這裡，您可以找到深水埗區的各種美食，包括平民美食、特色小店和 Cafe，還有地道民間美食。如果您想了解深水埗區的美食和好去處，歡迎來到「深水埗區美食指南」。">
+  <meta name="keywords" content="深水埗, 美食, 指南,餐廳,好去處">
+  <link rel="icon" href="img/logo/sham_shui_po_food_guide_Logo-tran.png" type="image/png" alt="Website Logo">
+  <link rel="shortcut icon" href="img/logo/sham_shui_po_food_guide_Logo-tran.png" type="image/png" alt="Website Logo">
+  <title>深水埗區美食指南</title>
+  
+</head>
+
+<body>
+  <div id="top"></div>
+  <header class="chinese hide-in-printonly"></header>
+  <nav class="chinese hide-in-printonly"></nav>
+  <div class="container" id="main">
+    <audio controls class="show-in-textonly">
+      <source src="audio/restaurant-star-chi.MP3" type="audio/mpeg">
+      你的瀏覽器不支援音頻元素。<a href="audio/restaurant-star-chi">這裏能下載音頻。</a>
+    </audio>
+    <div id="rest-stars-div">
+      <div class=index-text-box>
+      <h2>投票本月每月餐飲之星</h2>
+      </div>
+      <div id="rest-stars-text">
+        選出你最喜愛的餐廳之星，每人每次只僅限選出三個。
+      </div>
+      <form>
+        <div id="rests">
+        </div>
+        <input class="yellow-btn" type="submit" />
+        <input class="yellow-btn" type="reset" />
+      </form>
+    </br>
+    </div>
+    <button class="show-in-printonly" show-href="." onClick="onTogglePrintonly()">返回</button>
+    <a class="hide-in-printonly yellow-btn desktop" href="#top">回到置頂</a>
+  </div>
+  </div>
+  <footer class="chinese hide-in-printonly"></footer>
+  <script id="rest-card-template" type="x-tmpl-mustache">
+    <div class="rest-stars-card">
+      <div class="rest-stars-checkbox">
+        <input type="checkbox" name="restaurant" value="{{ id }}" onchange="onCheckboxChange()">
+      </div>
+      <div class="rest-card-photo">
+        <img class="hide-in-textonly" src="{{ img_url }}" alt="restaurant photo" />
+      </div>
+      <div class="rest-card-intro">
+        <h1><a href="restaurant.html?id={{ id }}" style="text-decoration: none; color: black;">{{ name.zh-hk }}</a></h1>
+        <div class="rest-card-type">{{ type.zh-hk }} {{ stars }}
+          <svg class="hide-in-textonly" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 22" fill="none">
+            <path
+              d="M12 0L14.6942 8.2918H23.4127L16.3593 13.4164L19.0534 21.7082L12 16.5836L4.94658 21.7082L7.64074 13.4164L0.587322 8.2918H9.30583L12 0Z"
+              fill="#FFF06E" />
+          </svg>
+        </div>
+        <h3 class="rest-card-number">{{ phone-number }}</h3>
+      </div>
+    </div>
+    </script>
+  <script src="https://unpkg.com/mustache@latest"></script>
+  <script src="script.js"></script>
+  <script src="script/restaurant-star.js"></script>
+</body>
+
+</html>

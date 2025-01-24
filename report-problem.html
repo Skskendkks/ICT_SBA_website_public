@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <meta name="description"
+    content="「深水埗區美食指南」是一個介紹深水埗區美食的網站。在這裡，您可以找到深水埗區的各種美食，包括平民美食、特色小店和 Cafe，還有地道民間美食。如果您想了解深水埗區的美食和好去處，歡迎來到「深水埗區美食指南」。">
+  <meta name="keywords" content="深水埗, 美食, 指南,餐廳,好去處">
+  <link rel="icon" href="img/logo/sham_shui_po_food_guide_Logo-tran.png" type="image/png" alt="Website Logo">
+  <link rel="shortcut icon" href="img/logo/sham_shui_po_food_guide_Logo-tran.png" type="image/png" alt="Website Logo">
+  <title>深水埗區美食指南</title>
+
+</head>
+
+<body>
+  <div id="top"></div>
+  <header class="chinese hide-in-printonly"></header>
+  <nav class="chinese hide-in-printonly"></nav>
+  <div class="container" id="main">
+    <audio controls class="show-in-textonly">
+      <source src="audio/report-problem-chi.MP3" type="audio/mpeg">
+      你的瀏覽器不支援音頻元素。<a href="audio/report-problem-chi.MP3">這裏能下載音頻。</a>
+    </audio>
+    <form>
+      <h2>回報問題</h2>
+      <h3>問題的類型</h3>
+      <label>
+        <input type="radio" name="problem" value="restaurant_content_error" required>
+        餐廳內容有錯誤(例如結業更新餐廳資訊)
+      </label>
+      <br>
+      <label>
+        <input type="radio" name="problem" value="website_display_error" required>
+        網站問題(例如技術問題訪問速度緩慢和功能失效)
+      </label>
+      <br>
+      <label>
+        <input type="radio" name="problem" value="website_improvement" required>
+        網站的改進(使用者介面，搜索功能、評論系統不完善等。)
+      </label>
+      <br>
+      <label>
+        <input type="radio" name="problem" value="security_issue" required>
+        安全問題(網站存在漏洞)
+      </label>
+      <br>
+      <label>
+        <input type="radio" name="problem" value="Comment section issue" required>
+        評論問題(不當評論，例如不實評論、粗言穢語等。)
+      </label>
+      <br>
+      <label>
+        <input type="radio" name="problem" value="other" required>
+        其他
+      </label>
+      <p>上傳螢幕截圖，協助我們解決問題。(所有檔案，請勿超過25 MB)</p>
+      <input type="file" name="file" required />
+      <br><br>
+      <h3>文字描述</h3>
+      <textarea class="yellow-textarea" name="description" required></textarea>
+      <br><br>
+      <input class="yellow-btn" type="submit" />
+      <input class="yellow-btn" type="reset" />
+    </form>
+  </br>
+    <button class="show-in-printonly" show-href="." onClick="onTogglePrintonly()">返回</button>
+    <br>
+    <a class="hide-in-printonly yellow-btn desktop" href="#top">回到置頂</a>
+  </div>
+  </div>
+  <footer class="chinese hide-in-printonly"></footer>
+  <script src="script.js"></script>
+</body>
+
+</html>

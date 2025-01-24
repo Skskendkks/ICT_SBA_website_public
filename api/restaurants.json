@@ -1,0 +1,462 @@
+[
+{
+    "id": "McDonalds",
+    "name": { "zh-hk": "麥當勞", "en-us": "McDonald's" },
+    "img_url": "img/rests/McDonalds_01.jpg",
+    "img_face":"img/rests/McDonalds_02.jpg",
+    "tts-chi":"audio/McDonalds-chi.MP3",
+    "tts-eng":"audio/McDonalds-eng.MP3",
+    "type": { "zh-hk": "西式", "en-us": "Western Style" },
+    "stars": 4.5,
+    "description": { "zh-hk": "老字號的經典連鎖速食店，以漢堡和薯條聞名。", "en-us": "A well-established classic chain fast food restaurant known for its hamburgers and french fries." },
+    "address": { "zh-hk": "石硤尾白田白雲街白田商場地下LG403號舖。", "en-us": "Shop LG403, G/F, Whitefield Plaza, 61-63 Yee Wo Street, White Cloud Street, Pak Tin, Sham Shui Po." },
+    "google_map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.4709866018898!2d114.16152604908493!3d22.335838253491904!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404070ab38fa5d7%3A0x14c3a22b514ce504!2z6bql55W25Yue!5e0!3m2!1szh-TW!2shk!4v1690820341461!5m2!1szh-TW!2shk",
+    "phone_number": "29157338",
+    "business_hours": { "mon-fri": "07:00 - 23:00", "sat-sun": "07:00 - 23:00", "holiday": "07:00 - 23:00" },
+    "comment": [
+        { "title": "falcon", "content": "我認為麥當勞是一家廣受歡迎的快餐連鎖店，在全球範圍內成為家喻戶曉的品牌。儘管有些人批評其食品不健康，但我認為它為許多個人和家庭提供了方便和經濟實惠的用餐選擇。此外，麥當勞推出了各種舉措，促進可持續性並減少浪費，這是朝著創建更環保的企業邁出的積極一步。總的來說，我認為麥當勞對快餐業產生了重要影響，並繼續成為許多人喜愛的知名品牌。", "time": "2019-01-29 10:35:09" },
+        { "title": "tomcat", "content": "我最近嘗試了麥當勞新出的酥脆雞肉三明治，我必須說，它超出了我的期望！雞肉多汁美味，法式奶油麵包是完美的搭配。我也很喜歡提供的各種醬料選項。總的來說，這是一頓美味而令人滿足的餐點，我一定會再次點這道菜。", "time": "2012-03-18 18:51:12" }
+    ],
+    "suggestions": 3174
+},
+{
+    "id": "Class_Work",
+    "name": { "zh-hk": "經典古早味蛋糕", "en-us": "Class Work" },
+    "img_url": "img/rests/Class_Work_01.jpg",
+    "img_face":"img/rests/Class_Work_02.jpg",
+    "tts-chi":"audio/Class_Work-chi.MP3",
+    "tts-eng":"audio/Class_Work-eng.MP3",
+    "type": { "zh-hk": "西式", "en-us": "Western Style" },
+    "stars": 2.5,
+    "description": { "zh-hk": "經典古早味蛋糕是一家以傳統古早味蛋糕聞名的餐廳。我們的餐廳致力於保留並傳承古早味蛋糕的經典口味和製作方法，讓顧客們在品嚐美食的同時，感受到濃濃的懷舊情懷。", "en-us": "Class Work is a restaurant that specializes in traditional old-fashioned cakes. Our restaurant is dedicated to preserving and passing on the classic flavors and preparation methods of old-fashioned cakes, allowing customers to savor delicious food while experiencing a strong sense of nostalgia." },
+    "address": { "zh-hk": "深水埗福榮街126號地舖", "en-us": "G/F, 126 Fuk Wing Street, Sham Shui Po" },
+    "google_map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d922.6383683016439!2d114.16113433062064!3d22.33272109899495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340407dcaa28aa83%3A0x2acdc05e791969dc!2z57aT5YW4IOWPpOaXqeWRs-ibi-ezlQ!5e0!3m2!1szh-TW!2shk!4v1692513182725!5m2!1szh-TW!2shk",
+    "phone_number": "62299712",
+    "business_hours": { "mon-fri": "11:30 - 22:00", "sat-sun": "11:30 - 22:00", "holiday": "11:30 - 22:00" },
+    "comment": [
+        { "title": "parrot", "content": "我非常喜歡經典古早味蛋糕！他們的蛋糕口感綿密細膩，味道濃郁，讓我回想起童年時代的味道。他們的起司蛋糕是我最愛的，每一口都帶來濃厚的乳酪香氣和柔軟的口感。餐廳的環境非常溫馨，讓我感到放鬆和舒適。工作人員也非常友善和熱情，總是提供優質的服務。我強烈推薦經典古早味蛋糕，是一個讓人愉悅的味蕾體驗。", "time": "2020-08-18 8:00:48" },
+        { "title": "panda", "content": "我最近光顧了經典古早味蛋糕，但對於他們的表現感到有些失望。蛋糕的味道並沒有像他們所宣稱的那麼好，我覺得有些平淡無奇。此外，蛋糕的質地也不夠鬆軟，有些乾巴巴的。我也覺得價格有點高，相對於品質而言，我覺得不是很划算。希望他們能改進蛋糕的口感和味道，提供更好的價值給顧客。", "time": "2011-08-20 19:19:47" }
+    ],
+    "suggestions": 1305
+},
+{
+    "id": "Pho_Bo",
+    "name": { "zh-hk": "越萊 (福榮街)", "en-us": "Pho Bo (Fuk Wing Street)" },
+    "img_url": "img/rests/Pho_Bo_01.jpg",
+    "img_face":"img/rests/Pho_Bo_02.jpg",
+    "tts-chi":"audio/Pho_Bo-chi.MP3",
+    "tts-eng":"audio/Pho_Bo-eng.MP3",
+    "type": { "zh-hk": "越式", "en-us": "Vietnamese Style" },
+    "stars": 3.8,
+    "description": { "zh-hk": "是一家位於深水埗的越南式餐廳，專注於為客人提供正宗的越南美食體驗。餐廳裝飾充滿越南風情，環境溫馨舒適，為用餐創造了愉悅的氛圍。", "en-us": "It is a Vietnamese Style restaurant located in Sham Shui Po, focusing on providing customers with an authentic Vietnamese dining experience. The restaurant is decorated with Vietnamese elements, creating a cozy and pleasant atmosphere for dining." },
+    "address": { "zh-hk": "深水埗福榮街124號地舖", "en-us": "G/F, 124 Fuk Wing Street, Sham Shui Po" },
+    "google_map_url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14762.226096224758!2d114.1620677!3d22.3326058!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404073a2d7cf579%3A0xebc715af572f9f3b!2z6LaK6JCK!5e0!3m2!1szh-TW!2shk!4v1692630068503!5m2!1szh-TW!2shk",
+    "phone_number": "98478815",
+    "business_hours": { "mon-fri": "11:30 - 21:30", "sat-sun": "11:30 - 21:30", "holiday": "11:30 - 21:30" },
+    "comment": [
+        { "title": "peacock", "content": "我在Pho Bo品嚐了一碗經典的越南牛肉湯，感覺非常失望。湯的味道相當平淡，缺乏深度和豐富的香料風味。牛肉片也不夠嫩軟，有些有嚼勁。另外，配菜的豆芽和青蔥品質一般，沒有很新鮮的口感。餐廳的環境和服務還算不錯，但食物的表現讓我感到失望。希望他們能改進湯的味道和牛肉的質地，提供更令人滿意的菜品。", "time": "2018-09-06 20:34:45" },
+        { "title": "lion", "content": "我最近在Pho Bo享用了一碗非常美味的越南牛肉湯。這家餐廳的Pho Bo以其濃郁的湯底和嫩滑的牛肉片而聞名。湯的口味非常正宗，充滿著藥材和香料的香氣，令人回味無窮。牛肉片非常嫩軟，入口即化。此外，配菜的新鮮豆芽、青蔥和新鮮香草提供了美妙的口感平衡。餐廳的服務也非常出色，工作人員友善且迅速。我強烈推薦Pho Bo，這是一家讓人愉悅的越南料理餐廳。", "time": "2014-06-30 11:44:36" }
+    ],
+    "suggestions": 8218
+},
+{
+    "id": "Madrid_Cafe",
+    "name": { "zh-hk": "馬德里餐廳", "en-us": "Madrid Cafe" },
+    "img_url": "img/rests/Madrid_Cafe_01.jpg",
+    "img_face":"img/rests/Madrid_Cafe_02.jpg",
+    "tts-chi":"audio/Madrid_Cafe-chi.MP3",
+    "tts-eng":"audio/Madrid_Cafe-eng.MP3",
+    "type": { "zh-hk": "西式", "en-us": "Western Style" },
+    "stars": 3.4,
+    "description": { "zh-hk": "是一個迷人的用餐場所，提供了一個獨特而令人難忘的美食體驗。我們餐廳的理念是融合當地的口味和創新的烹飪技巧，為客人帶來精心設計的菜單。 是一個迷人的用餐場所，提供了一個獨特而令人難忘的美食體驗。我們餐廳的理念是融合當地的口味和創新的烹飪技巧，為客人帶來精心設計的菜單。<br/> <br/> 我們的廚師團隊由經驗豐富的專業人士組成，他們對料理充滿熱情並注重細節。我們使用新鮮的當地食材，並嚴格控制食品的品質和新鮮度，以確保每一道菜都能呈現最佳的口味和視覺效果。", "en-us": "It is a charming dining destination that offers a unique and unforgettable culinary experience. Our restaurant's philosophy is to blend local flavors with innovative cooking techniques, creating a thoughtfully designed menu for our guests.<br/> <br/> Our team of chefs consists of experienced professionals who are passionate about cuisine and pay attention to detail. We use fresh local ingredients and rigorously control the quality and freshness of our food to ensure that each dish presents the best taste and visual appeal." },
+    "address": { "zh-hk": "深水埗福榮街120-122號地下", "en-us": "Sham Shui Po, Fuk Wing Street, Ground Floor, No. 120-122." },
+    "google_map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.557300883482!2d114.15956047508153!3d22.33257644172521!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404074b54b51e1b%3A0x6918d09f2f7068e7!2sMadrid%20Cafe!5e0!3m2!1sen!2shk!4v1692543812367!5m2!1sen!2shk",
+    "phone_number": "27283378",
+    "business_hours": { "mon-fri": "07:00 - 23:00", "sat-sun": "07:00 - 23:00", "holiday": "07:00 - 23:00" },
+    "comment": [
+        { "title": "swan", "content": "這間西式餐廳是我最近發現的一個寶藏！他們的菜單提供了廣泛的選擇，從開胃菜到主菜和甜點，都讓我大呼過癮。他們的牛排煎得恰到好處，外酥內嫩，配上美味的黑椒汁，真是一絕。另外，他們的海鮮意大利麵也是令人驚艷，新鮮的海鮮與麵條完美結合，味道鮮美。餐廳的氛圍很舒適，服務也非常周到。我強烈推薦這間西式餐廳，絕對是一個讓人愉悅的用餐選擇。", "time": "2020-01-31 12:11:06" },
+        { "title": "tiger", "content": "這間西式餐廳給我留下了深刻的印象！他們的菜品獨具特色，充滿創意。我特別喜歡他們的藍莓羊酪沙拉，新鮮的藍莓和濃郁的羊酪完美結合，口感豐富而清爽。他們的服務非常周到，工作人員友善且專業。餐廳的氛圍時尚而舒適，讓我感到放鬆和愉悅。我會毫不猶豫地推薦這間西式餐廳給我的朋友和家人，他們一定會享受到美味的菜品和愉快的用餐體驗。", "time": "2019-05-30 19:08:16" }
+    ],
+    "suggestions": 2756
+},
+{
+    "id": "Tengachaya",
+    "name": { "zh-hk": "天下茶屋", "en-us": "Tengachaya" },
+    "img_url": "img/rests/Tengachaya_01.jpg",
+    "img_face":"img/rests/Tengachaya_02.jpg",
+    "tts-chi":"audio/Tengachaya-chi.MP3",
+    "tts-eng":"audio/Tengachaya-eng.MP3",
+    "type": { "zh-hk": "日式", "en-us": "Japanese Style" },
+    "stars": 3.8,
+    "description": { "zh-hk": "天下茶屋是一家位於新城的傳統日式餐廳，以獨特的日本料理和和風氛圍而聞名。進入餐廳，您會被迎接著傳統的日本風格設計和舒適的環境所吸引。<br/> 天下茶屋的菜單提供了廣泛的選擇，包括新鮮的壽司、刺身、炙燒、天婦羅和湯物等傳統日本美食。他們以使用高品質的食材為傲，並以精湛的廚藝將每道菜品打造成藝術品般的呈現。", "en-us": "Tenka Chaya is a traditional Japanese restaurant located in Shinjuku, known for its unique Japanese cuisine and traditional Japanese ambiance. As you enter the restaurant, you will be greeted by the traditional Japanese-style design and a cozy environment that immediately catches your attention." },
+    "address": { "zh-hk": "深水埗福榮街118號地舖", "en-us": "118 Fuk Wing St, Un Chau" },
+    "google_map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.55957645933!2d114.15964687508153!3d22.332490441728265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34040768d7c42a5d%3A0xa1a6719f90527256!2z5aSp5LiL6Iy25bGL!5e0!3m2!1sen!2shk!4v1692544279470!5m2!1sen!2shk",
+    "phone_number": "26900380",
+    "business_hours": { "mon-fri": "11:30 - 22:30", "sat-sun": "11:30 - 22:30", "holiday": "11:30 - 22:30" },
+    "comment": [
+        { "title": "flamingo", "content": "天下茶屋是我在新城找到的一個寶藏！他們的料理真是無可挑剔。壽司的新鮮度和品質絕對是一流的，每一口都讓人愉悅。他們的炙燒菜品也非常出色，肉質鮮嫩多汁，燒烤的香氣讓人垂涎欲滴。此外，工作人員的服務非常周到和友好，他們樂於解答問題並提供建議。餐廳的氛圍簡約而舒適，讓我能夠放鬆享受美食。如果你是日本料理的愛好者，我強烈推薦你來天下茶屋品味他們的美食，你絕對不會失望！", "time": "2020-09-16 19:27:18" },
+        { "title": "leopard", "content": "天下茶屋是我最喜歡的日式餐廳之一！他們的壽司和刺身絕對是一流的，新鮮的魚肉和完美的切割技巧讓每一口都令人驚艷。他們的炙燒菜品也非常美味，肉質鮮嫩多汁，帶有迷人的炭燒香氣。服務非常專業和友好，工作人員總是微笑著幫助我們選擇菜品並提供建議。整個餐廳的氛圍非常舒適，讓我感覺彷彿置身於日本的小角落。如果你想要品味正宗的日本料理，天下茶屋絕對是個不容錯過的地方。", "time": "2018-08-10 20:16:04" }
+    ],
+    "suggestions": 6107
+},
+{
+    "id": "CHILI_MIX",
+    "name": { "zh-hk": "花小椒", "en-us": "CHILI MIX" },
+    "img_url": "img/rests/CHILI_MIX_01.jpg",
+    "img_face":"img/rests/CHILI_MIX_02.jpg",
+    "tts-chi":"audio/CHILI_MIX-chi.MP3",
+    "tts-eng":"audio/CHILI_MIX-eng.MP3",
+    "type": { "zh-hk": "其他", "en-us": "Other" },
+    "stars": 4,
+    "description": { "zh-hk": "本店供應不同湯底冒菜粉麵，有辣有不辣可供食客選擇。功夫湯底，一嘗即知。本店精選食材，口味美味獨特。", "en-us": "Our restaurant offers a variety of hot pot and noodle dishes with different soup bases, both spicy and non-spicy, for customers to choose from. Our signature soup base is prepared with skill and expertise, and once you taste it, you'll know its exceptional flavor. We carefully select high-quality ingredients to create unique and delicious flavors." },
+    "address": { "zh-hk": "深水埗福榮街114號地舖", "en-us": "G/F, 114 Fuk Wing Street, Sham Shui Po" },
+    "google_map_url": "https://www.google.com/maps/embed?pb=!4v1692545220569!6m8!1m7!1sqghQMeKAlVNf_I_tSrrVtQ!2m2!1d22.3323523164119!2d114.1622566153446!3f34.342931206569!4f-3.4580375468958806!5f0.7820865974627469",
+    "phone_number": "97253381",
+    "business_hours": { "mon-fri": "11:30 - 23:00", "sat-sun": "11:30 - 23:00", "holiday": "11:30 - 23:00" },
+    "comment": [
+        { "title": "crow", "content": "我最近去了花小椒餐廳，真的被他們的川菜給驚艷到了！從進入餐廳的那一刻起，我就被它濃郁的中國傳統風格所吸引。餐廳的環境非常溫馨舒適，讓我感覺放鬆又愉快。<br/> 他們的川菜真是道地又美味！我點了他們的招牌菜麻辣火鍋，辣味十足又麻辣可口，湯底鮮香濃郁。回鍋肉更是令人回味無窮，肉質鮮嫩多汁，配上他們特有的麻辣醬料，簡直是絕配！我還品嚐了宮保雞丁和水煮魚，口感和味道都非常棒。<br/> 除了美食，他們的服務也非常出色。服務團隊待人親切友好，總是笑容滿面且樂於幫助。他們對菜品的介紹非常詳細，也能根據客人的口味喜好提供建議。<br/> 整體而言，花小椒給我留下了深刻的印象。他們的川菜絕對是地道的，每一道菜都讓我愛不釋手。如果你是川菜愛好者或者想要嘗試中國美食，我強烈推薦你來花小椒餐廳。你一定會愛上他們的美食和熱情的服務！", "time": "2019-12-02 0:51:47" },
+        { "title": "zebra", "content": "我最近去了花小椒餐廳，真的被他們的川菜給驚艷到了！這是我在城市中尋找正宗川菜的最佳選擇。餐廳的氛圍非常舒適，燈光柔和，裝飾典雅，讓我感到放鬆愜意。<br/> <br/> 菜單上的選擇多樣豐富，每一道菜都經過精心烹調和調味，味道鮮美。我特別推薦他們的麻辣火鍋，湯底麻辣鮮香，配料新鮮多樣，絕對是辣味愛好者的天堂。回鍋肉是另一個令人垂涎的菜品，肉質鮮嫩多汁，配上特製的醬料，口感絕佳。他們的宮保雞丁和水煮魚也非常美味，每一口都充滿了川菜獨特的麻辣風味。<br/> <br/> 除了美食，他們的服務也令人印象深刻。工作人員熱情友好，樂於解答問題，隨時提供幫助。他們對菜品的介紹詳細又專業，使我對菜品的選擇更加自信。<br/> <br/> 總的來說，花小椒餐廳給我留下了極好的印象。我強烈推薦喜歡川菜的朋友來這裡品嚐正宗的四川美食。無論你是想要一頓美味的火鍋還是品嚐傳統川菜，花小椒都是你的不二選擇。", "time": "2012-03-13 12:24:41" }
+    ],
+    "suggestions": 7883
+},
+{
+    "id": "TamJai_SamGor",
+    "name": { "zh-hk": "譚仔三哥米線", "en-us": "TamJai SamGor" },
+    "img_url": "img/rests/TamJai_SamGor_01.jpg",
+    "img_face":"img/rests/TamJai_SamGor_02.jpg",
+    "tts-chi":"audio/TamJai_SamGor-chi.MP3",
+    "tts-eng":"audio/TamJai_SamGor-eng.MP3",
+    "type": { "zh-hk": "其他", "en-us": "Other" },
+    "stars": 3.5,
+    "description": { "zh-hk": "「譚仔三哥米線」品牌是在香港專營米線的快速休閒連鎖餐廳，在新加坡及日本也有業務。我們的品牌擁有14年歷史，「譚仔三哥米線」品牌名下的第一間餐廳在2008年於香港開設，而我們的品牌亦分別於2020年及2022年正式進軍新加坡及日本市場。", "en-us": "TamJai SamGor is a fast-casual chain restaurant specializing in rice noodles. It operates in Hong Kong and has expanded its business to Singapore and Japan. The brand has a history of 14 years, with the first restaurant under the \"TamJai SamGor\" brand opening in Hong Kong in 2008. The brand officially entered the Singapore and Japan markets in 2020 and 2022, respectively." },
+    "address": { "zh-hk": "深水埗福榮街110號", "en-us": "G/F, 110 Fuk Wing Street, Sham Shui Po" },
+    "google_map_url": "https://www.google.com/maps/embed?pb=!4v1692546395174!6m8!1m7!1sqghQMeKAlVNf_I_tSrrVtQ!2m2!1d22.3323523164119!2d114.1622566153446!3f36.022240980417116!4f0.0717931271463641!5f0.7820865974627469",
+    "phone_number": "2764 8188",
+    "business_hours": { "mon-fri": "11:00 - 22:30", "sat-sun": "11:00 - 22:30", "holiday": "11:00 - 22:30" },
+    "comment": [
+        { "title": "raven", "content": "我最近去了譚仔三哥米線的分店，整體體驗非常令人滿意。他們的米線非常美味，湯底鮮濃，米線本身口感彈牙。我特別喜歡他們的配料選擇，有多種選擇，可以自由搭配，讓我可以根據自己的口味喜好來組合。服務態度也很友好，員工熱情且迅速處理點餐和上菜。餐廳的環境簡潔舒適，氛圍輕鬆愉快。總的來說，我對譚仔三哥米線的餐飲品質和服務都非常滿意，我會推薦給喜歡米線的朋友們去試試。", "time": "2017-06-18 19:46:19" },
+        { "title": "hippo", "content": "我最近到譚仔三哥米線品嚐了他們的招牌米線，真是讓我驚艷不已！米線本身口感細緻，搭配豐富的湯底，味道香濃而不膩。他們的配料非常新鮮，蔬菜和肉類都煮得剛剛好，保持了原有的口感和鮮味。服務方面也給人留下了深刻印象，員工熱情友好，迅速為我們提供了用餐所需。餐廳環境乾淨整潔，氛圍舒適輕鬆。整體而言，譚仔三哥米線提供了出色的用餐體驗，我肯定會再次光顧，也推薦給其他米線愛好者。", "time": "2016-08-13 19:52:12" }
+    ],
+    "suggestions": 4538
+},
+{
+    "id": "Jiangnam_Noodle",
+    "name": { "zh-hk": "江南瀨粉", "en-us": "Jiangnam Noodle" },
+    "img_url": "img/rests/Jiangnam_Noodle_01.jpg",
+    "img_face":"img/rests/Jiangnam_Noodle_02.jpg",
+    "tts-chi":"audio/Jiangnam_Noodle-chi.MP3",
+    "tts-eng":"audio/Jiangnam_Noodle-eng.MP3",
+    "type": { "zh-hk": "中式", "en-us": "Chinese Style" },
+    "stars": 3.5,
+    "description": { "zh-hk": "江南瀨粉以其豐富的菜單和高品質的食材聞名，提供給顧客一個獨特而美味的餐飲體驗。他們的瀨粉是招牌菜之一，這是一道湖南地區傳統的米粉湯。瀨粉的湯底鮮美，配上豐富的配料如肉丸、豆腐皮和蔬菜，給人一種口感豐富且滿足的感覺。<br/> 除了瀨粉，江南瀨粉的菜單還包括湖南菜和湖北菜的經典菜式，如辣椒炒肉、蒸魚和口味獨特的麻辣火鍋等。餐廳注重使用新鮮的食材並遵循傳統的烹飪方法，以保持菜品的原汁原味和地道風味。", "en-us": "Jiangnam Noodle is renowned for its diverse menu and high-quality ingredients, providing customers with a unique and delicious dining experience. One of their signature dishes is Se Fan, which is a traditional rice noodle soup from the Hunan region. The broth of Se Fan is flavorful and is accompanied by abundant toppings such as meatballs, tofu skin, and vegetables, offering a rich and satisfying taste.<br/> <br/> In addition to Se Fan, Jiangnam Noodle's menu includes classic dishes from Hunan and Hubei cuisine, such as spicy stir-fried pork, steamed fish, and uniquely flavored spicy hot pot. The restaurant emphasizes the use of fresh ingredients and follows traditional cooking methods to maintain the authenticity and genuine flavors of the dishes." },
+    "address": { "zh-hk": "福榮街108號地舖", "en-us": "G/F, 108 Fuk Wing Street, Sham Shui Po" },
+    "google_map_url": "https://www.google.com/maps/embed?pb=!4v1692589505815!6m8!1m7!1smh4i-1Z_uFFGmMvHXWjJlQ!2m2!1d22.33229113686284!2d114.1623329966937!3f60.3228277560177!4f-3.031267120101333!5f0.7820865974627469",
+    "phone_number": "54019412",
+    "business_hours": { "mon-fri": "10:30 - 21:45", "sat-sun": "10:30 - 21:45", "holiday": "10:30 - 21:45" },
+    "comment": [
+        { "title": "dolphin", "content": "江南瀨粉是我最喜歡的餐廳之一！他們的菜單種類繁多，提供了湖南和湖北的經典美食，給我帶來了一場味蕾的盛宴。他們的招牌菜瀨粉是絕對不能錯過的，湯底鮮美，配料豐富，每一口都讓人愛不釋手。<br/> <br/> 除了瀨粉，我也推薦他們的辣椒炒肉，辣而不失香氣，肉質嫩滑多汁，絕對是辣味愛好者的最愛。另外，他們的蒸魚也是一道令人驚艷的菜品，鮮嫩的魚肉搭配著醬汁的香氣，讓人回味無窮。<br/> <br/> 這家餐廳非常注重食材的新鮮度和品質，每一道菜都能品味到原汁原味的美味。無論是用餐環境還是服務態度，都讓我感到非常滿意。如果你想要一個正宗而美味的湖南湖北菜體驗，我強烈推薦江南瀨粉！", "time": "2016-09-13 8:16:07" },
+        { "title": "rhino", "content": "\"Jiangnam Noodle is a hidden gem that truly captures the essence of Hunan and Hubei cuisine. From the moment you step inside, you are greeted with warm hospitality and a cozy atmosphere. The menu is a delightful journey through authentic flavors and tantalizing aromas.<br/> I can't get enough of their signature dish, Se Fan. The rice noodle soup is a burst of flavors, with the savory broth perfectly complementing the tender meatballs, tofu skin, and fresh vegetables. Each spoonful is a delightful adventure for the taste buds.<br/> The restaurant also excels in their spicy stir-fried pork, delivering a fiery kick that is balanced with a medley of spices. The tenderness of the meat combined with the bold flavors is simply irresistible. And let's not forget about their steamed fish, which is cooked to perfection, showcasing the natural flavors of the fish and harmonizing with the delectable sauce.<br/> Jiangnam Noodle places great emphasis on sourcing the finest ingredients and preserving the traditional cooking methods. This dedication shines through in every dish, as the flavors are authentic and reminiscent of the region's culinary heritage.<br/> Overall, Jiangnam Noodle is a culinary haven for those seeking an unforgettable dining experience. It's a place where tradition meets innovation, and where every bite transports you to the vibrant streets of Hunan and Hubei. Don't miss the opportunity to indulge in the exquisite offerings of this remarkable restaurant.\"", "time": "2013-08-19 19:09:09" }
+    ],
+    "suggestions": 4636
+},
+{
+    "id": "Street-side_Cart_Noodles",
+    "name": { "zh-hk": "街邊檔車仔麵", "en-us": "Street-side Cart Noodles" },
+    "img_url": "img/rests/Street-side_Cart_Noodles_01.jpg",
+    "img_face":"img/rests/Street-side_Cart_Noodles_02.jpg",
+    "tts-chi":"audio/Street-side_Cart_Noodles-chi.MP3",
+    "tts-eng":"audio/Street-side_Cart_Noodles-eng.MP3",
+    "type": { "zh-hk": "港式", "en-us": "Hong Kong Style" },
+    "stars": 3.5,
+    "description": { "zh-hk": "街邊檔車仔麵以其迅速上菜和經濟實惠的特點而受到熱愛。無論是上班族匆忙的午餐時間還是深夜飢腸轆轆的夜宵時刻，街邊檔車仔麵都是香港人的首選。它不僅提供了美味的快餐選擇，還展現了香港獨特的街頭文化和生活方式。", "en-us": "Street-side cart noodles are cherished for their quick service and affordability. Whether it's during the busy lunch hours for office workers or late-night cravings, street-side cart noodles are the go-to choice for Hong Kong people. They not only offer a tasty quick meal option but also showcase Hong Kong's unique street culture and way of life." },
+    "address": { "zh-hk": "深水埗褔榮街104號地舖", "en-us": "G/F, 104 Fuk Wing Street, Sham Shui Po" },
+    "google_map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d353.1675275681849!2d114.16231791163696!3d22.332339467678988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34040196529a25ad%3A0x3c91291825ce2706!2z6KGX6YKK5qqU6LuK5LuU6bq1!5e0!3m2!1szh-TW!2shk!4v1692629162011!5m2!1szh-TW!2shk",
+    "phone_number": "N/A",
+    "business_hours": { "mon-fri": "11:00–22:00", "sat-sun": "11:00–22:00", "holiday": "11:00–22:00" },
+    "comment": [
+        { "title": "whale", "content": "街邊檔車仔麵是我在香港最喜愛的小吃之一！每次我走過香港的街頭，那迷人的香氣總是讓我無法抗拒。這種傳統的快餐食品給我帶來了一種地道的香港味道和文化體驗。", "time": "2020-01-19 17:45:02" },
+        { "title": "giraffe", "content": "街邊檔車仔麵的麵條彈牙有嚼勁，而豐富多樣的配料則讓每一口都充滿驚喜。我喜歡加入煎蛋、叉燒和魚蛋等配料，這些搭配在濃郁的湯頭中展現出令人垂涎欲滴的美味。", "time": "2016-10-10 18:47:17" }
+    ],
+    "suggestions": 3345
+},
+{
+    "id": "Man_Xiang_Roast_Goose_King",
+    "name": { "zh-hk": "滿香燒鵝皇", "en-us": "Man Xiang Roast Goose King" },
+    "img_url": "img/rests/Man_Xiang_Roast_Goose_King_01.jpg",
+    "img_face":"img/rests/Man_Xiang_Roast_Goose_King_02.jpg",
+    "tts-chi":"audio/Man_Xiang_Roast_Goose_King-chi.MP3",
+    "tts-eng":"audio/Man_Xiang_Roast_Goose_King-eng.MP3",
+    "type": { "zh-hk": "港式", "en-us": "Hong Kong Style" },
+    "stars": 4,
+    "description": { "zh-hk": "滿香燒鵝皇（Man Xiang Roast Goose King）是一家在香港享有盛譽的燒鵝店。他們以精湛的烹飪技巧和出色的味道而聞名，成為香港燒味界的代表之一。<br/> 滿香燒鵝皇的招牌菜品是他們的燒鵝，鵝皮烤得金黃酥脆，肉質鮮嫩多汁。每一口都能品味到獨特的燒烤香氣，令人回味無窮。除了燒鵝，他們還提供其他美味的燒味菜品，如燒鴨、叉燒和燒乳豬，每一道菜都展現了他們對品質和口味的追求。", "en-us": "Man Xiang Roast Goose King is a renowned roast goose restaurant in Hong Kong. They are known for their exquisite culinary skills and exceptional flavors, making them a prominent representative in the world of Cantonese barbecue.<br/> The signature dish at Man Xiang Roast Goose King is their roast goose. The golden and crispy skin complements the tender and juicy meat perfectly. Each bite is filled with a unique smoky aroma that lingers on the palate. In addition to roast goose, they also offer Other delicious barbecue dishes such as roast duck, char siu (barbecue pork), and roasted suckling pig, each demonstrating their commitment to quality and taste." },
+    "address": { "zh-hk": "深水埗福榮街100號地舖", "en-us": "G/F, 100 Fuk Wing Street, Sham Shui Po" },
+    "google_map_url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d572.8946563845858!2d114.1623080556064!3d22.33229439328786!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340401c09a0a7b83%3A0xfeb91afe5aa3ed41!2z5ru_6aaZ54eS6bWd55qH!5e0!3m2!1szh-TW!2shk!4v1692629987701!5m2!1szh-TW!2shk",
+    "phone_number": "23383878",
+    "business_hours": { "mon-fri": "10:30 - 22:30", "sat-sun": "10:30 - 22:30", "holiday": "10:30 - 22:30" },
+    "comment": [
+        { "title": "shark", "content": "滿香燒鵝皇（Man Xiang Roast Goose King）是我在香港最喜愛的燒鵝店之一！他們以出色的燒鵝技藝和美味的口感而聞名，每一口都散發著令人垂涎的香氣。", "time": "2019-09-24 9:02:53" },
+        { "title": "elephant", "content": "除了燒鵝，滿香燒鵝皇還提供其他精緻的菜品。他們的燒鴨、叉燒和燒乳豬同樣美味。每一道菜都展現了他們在烹飪技巧和選材上的講究，讓人感受到正宗的香港燒味風味。<br/> 這家餐廳的服務態度也非常出色，員工總是熱情友好，讓我在用餐過程中感到舒適和受到重視。", "time": "2017-07-24 9:28:06" }
+    ],
+    "suggestions": 2008
+},
+{
+    "id": "Ging_Sun_Ho_King_of_Bun",
+    "name": { "zh-hk": "堅信號上海生煎皇", "en-us": "Ging Sun Ho King of Bun" },
+    "img_url": "img/rests/Ging_Sun_Ho_King_of_Bun_01.jpg",
+    "img_face":"img/rests/Ging_Sun_Ho_King_of_Bun_02.jpg",
+    "tts-chi":"audio/Ging_Sun_Ho_King_of_Bun-chi.MP3",
+    "tts-eng":"audio/Ging_Sun_Ho_King_of_Bun-eng.MP3",
+    "type": { "zh-hk": "其他", "en-us": "Other" },
+    "stars": 3.4,
+    "description": { "zh-hk": "堅信號上海生煎皇主打時尚中式輕食餐飲，揉合傳統和現代飲食元素，向客人提供與別不同的中式餐飲體驗。 透過採用優質及健康的食材、員工親和及友善的服務，為每一位客人提供與別不同、稱心滿意的飲食體驗；藉著與時並進和持續改善的理念及態度，將品牌發揚光大！", "en-us": "Ging Sun Ho King of Bun is a trendy Chinese fusion restaurant that specializes in modern Chinese light cuisine. It blends traditional and contemporary culinary elements to offer guests a unique Chinese dining experience. By using high-quality and healthy ingredients and providing friendly and attentive service, they strive to deliver a distinctive and satisfying dining experience to every customer. With a commitment to staying current and continuously improving, they aim to elevate and promote their brand." },
+    "address": { "zh-hk": "深水埗福榮街98號地舖", "en-us": "G/F, 98 Fuk Wing Street, Sham Shui Po" },
+    "google_map_url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14762.265955651426!2d114.1626051!3d22.3322292!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340400b4b284b3b7%3A0x7aff9a2f448fbecf!2z5aCF5L-h6Jmf5LiK5rW355Sf54WO55qH!5e0!3m2!1szh-TW!2shk!4v1692630928565!5m2!1szh-TW!2shk",
+    "phone_number": "27237723",
+    "business_hours": { "mon-fri": "11:00 - 22:00", "sat-sun": "11:00 - 22:00", "holiday": "11:00 - 22:00" },
+    "comment": [
+        { "title": "salmon", "content": "Ging Sun Ho King of Bun (Fuk Wing Street) is a hidden gem in Shanghai, known for their exceptional steamed buns. Although it's currently closed for a break, I had the pleasure of dining there recently and I must say, it was an unforgettable experience.", "time": "2018-04-14 23:11:49" },
+        { "title": "koala", "content": "The restaurant itself exudes a cozy and inviting atmosphere. The staff members are friendly and attentive, ensuring that every customer feels welcomed and taken care of. The attention to detail in both the food and the service is commendable.", "time": "2020-09-08 11:10:50" }
+    ],
+    "suggestions": 7303
+},
+{
+    "id": "Uncle_Bill",
+    "name": { "zh-hk": "標叔叔小食店", "en-us": "Uncle Bill" },
+    "img_url": "img/rests/Uncle_Bill_01.jpg",
+    "img_face":"img/rests/Uncle_Bill_02.jpg",
+    "tts-chi":"audio/Uncle_Bill-chi.MP3",
+    "tts-eng":"audio/Uncle_Bill-eng.MP3",
+    "type": { "zh-hk": "港式", "en-us": "Hong Kong Style" },
+    "stars": 3.5,
+    "description": { "zh-hk": "標叔叔小食店以其多樣化的選擇而聞名，包括叉燒、燒鵝、燒乳豬和燒鴨等。他們的燒烤技巧獨到，能夠烤出金黃酥脆的外皮，肉質鮮嫩多汁，每一口都讓人垂涎欲滴。", "en-us": "Uncle Bill's Snack Shop is renowned for its diverse selection, including char siu (barbecue pork), roast goose, roasted suckling pig, and roast duck, among Others. Their grilling techniques are exceptional, resulting in perfectly crispy golden skin and tender, juicy meat that will leave you craving for more with every bite." },
+    "address": { "zh-hk": "深水埗福榮街90號A", "en-us": "90A Fuk Wing Street, Sham Shui Po" },
+    "google_map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.5730180633077!2d114.16031787488366!3d22.331982441747098!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404076d1f168f8b%3A0x2436b778aef451ab!2z5qiZ5Y-U5Y-U5bCP6aOf5bqX!5e0!3m2!1szh-TW!2shk!4v1692695454400!5m2!1szh-TW!2shk",
+    "phone_number": "39563147",
+    "business_hours": { "mon-fri": "11:00 - 00:00", "sat-sun": "11:00 - 00:00", "holiday": "11:00 - 00:00" },
+    "comment": [
+        { "title": "trout", "content": "標叔叔小食店是熱愛港式燒烤的人們的一顆明珠。從踏入餐廳的那一刻起，你就會被溫馨而誘人的氛圍所包圍，為美好的用餐體驗做好準備。<br/> 標叔叔小食店的菜單真正展現了香港的烹飪傳統。其中的叉燒、燒鵝、燒乳豬和燒鴨選擇豐富多樣，令人讚嘆不已。每道菜餚都經過精心烹製，味道地道而令人垂涎欲滴。叉燒肉鮮嫩多汁，外表酥脆；燒鵝皮金黃酥脆，肉質鮮美；燒乳豬皮烤得脆爽，內裡多汁鮮香；而燒鴨則香氣撲鼻，肉質鮮美入口即化。", "time": "2016-10-01 7:00:44" },
+        { "title": "kangaroo", "content": "餐廳的氛圍溫馨宜人，帶有一絲香港的懷舊感。裝飾風格展現了傳統街頭小攤的韻味，彷彿將你帶到了熙熙攘攘的香港街頭。無論你是獨自就餐還是與朋友共聚，這裡的氛圍都非常適合享受美食，沉浸在香港的美味之中。", "time": "2019-06-13 10:09:47" }
+    ],
+    "suggestions": 6854
+},
+{
+    "id": "Eat_to_New",
+    "name": { "zh-hk": "新之食", "en-us": "Eat to New" },
+    "img_url": "img/rests/Eat_to_New_01.jpg",
+    "img_face":"img/rests/Eat_to_New_02.jpg",
+    "tts-chi":"audio/Eat_to_New-chi.MP3",
+    "tts-eng":"audio/Eat_to_New-eng.MP3",
+    "type": { "zh-hk": "中式", "en-us": "Chinese Style" },
+    "stars": 2,
+    "description": { "zh-hk": "新之食中餐館的菜單提供了多種豐富的選擇，包括傳統的中國菜和創新的菜式。無論您喜歡粵菜、川菜、湘菜還是其他地方的特色菜，這裡都能滿足您的口味。餐廳的主廚們精通各種烹飪技巧，使用新鮮的食材和優質的調味料，確保每一道菜都具有鮮美的味道和藝術的呈現。", "en-us": "Eat to New Chinese Restaurant offers a diverse menu with a wide selection of traditional Chinese dishes and innovative creations. Whether you enjoy Cantonese cuisine, Sichuan cuisine, Hunan cuisine, or specialties from Other regions, you will find something to satisfy your taste buds here. The restaurant's chefs are skilled in various cooking techniques, using fresh ingredients and high-quality seasonings to ensure that each dish has a delightful taste and artistic presentation." },
+    "address": { "zh-hk": "深水埗福榮街84號", "en-us": "84 Fuk Wing Street, Sham Shui Po" },
+    "google_map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d444.96442623564405!2d114.16310557511189!3d22.331959598267904!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340400b4b6f640e5%3A0xf00906edb39f1a08!2z5paw5LmL6aOf!5e0!3m2!1szh-TW!2shk!4v1692695811526!5m2!1szh-TW!2shk",
+    "phone_number": "23446611",
+    "business_hours": { "mon-fri": "24小時營業", "sat-sun": "24小時營業", "holiday": "24小時營業" },
+    "comment": [
+        { "title": "tuna", "content": "我最近有幸在新之食用餐，我必須說，這超出了我的期望。一踏入餐廳，就被熱情的笑容和舒適的氛圍所迎接。菜單上提供了各種豐富的餐點，讓我難以選擇！<br/> 最終，我選擇了牛肉湯麵，我被驚艷到了。湯頭豐富而風味十足，與嫩滑的牛肉和完美煮熟的麵條相得益彰。每一口都是美味的爆發。他們在準備過程中的細致入微，真正提升了用餐體驗。", "time": "2019-09-06 12:29:25" },
+        { "title": "wallaby", "content": "我最近去了新之食中餐館，真的是一個令人驚艷的用餐體驗！從一進門開始，我就被華麗的裝潢和舒適的氛圍所吸引。菜單上的選擇多樣，涵蓋了各種中國料理的經典菜式。", "time": "2018-12-26 0:32:55" }
+    ],
+    "suggestions": 2476
+},
+{
+    "id": "Lau_Sum_Kee_Noodle",
+    "name": { "zh-hk": "劉森記麵家", "en-us": "Lau Sum Kee Noodle" },
+    "img_url": "img/rests/Lau_Sum_Kee_Noodle_01.jpg",
+    "img_face":"img/rests/Lau_Sum_Kee_Noodle_02.jpg",
+    "tts-chi":"audio/Lau_Sum_Kee_Noodle-chi.MP3",
+    "tts-eng":"audio/Lau_Sum_Kee_Noodle-eng.MP3",
+    "type": { "zh-hk": "港式", "en-us": "Hong Kong Style" },
+    "stars": 3.5,
+    "description": { "zh-hk": "劉森記麵家的創始人劉先生是一位對麵食有著深厚熱愛和經驗的大師。他對於每一碗麵的製作都極為講究，堅持使用新鮮的高品質食材，並遵循傳統的麵食製作工藝，使得每一碗麵都能夠保持獨特的口感和美味。", "en-us": "Lau Sum Kee Noodle, Mr. Lau, is a master with a deep passion and experience in noodle-making. He pays great attention to the preparation of each bowl of noodles, insisting on using fresh, high-quality ingredients and adhering to traditional noodle-making techniques, ensuring that each bowl of noodles maintains a unique texture and delicious taste." },
+    "address": { "zh-hk": "深水埗褔榮街80號地舖", "en-us": "G/F, 80 Fuk Wing Street, Sham Shui Po" },
+    "google_map_url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14762.265542877838!2d114.1630699!3d22.3322331!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340400b4b51eac85%3A0xc014d181c9bfcfff!2z5YqJ5qOu6KiY6bq15a62!5e0!3m2!1szh-TW!2shk!4v1692695203141!5m2!1szh-TW!2shk",
+    "phone_number": "23863533",
+    "business_hours": { "mon-fri": "12:30 - 22:00", "sat-sun": "12:30 - 22:00", "holiday": "12:30 - 22:00" },
+    "comment": [
+        { "title": "lobster", "content": "Visited Lau Sum Kee Noodle last night and it was an absolute delight! The noodles were perfectly cooked and had a fantastic texture. I opted for the spicy broth and it had just the right amount of heat, giving the dish a flavorful kick. The ingredients were fresh and of top-notch quality, making each bite a true pleasure. The service was excellent, with the staff being attentive and friendly. The ambiance of the restaurant was cozy and welcoming, creating a pleasant dining experience. I highly recommend Lau Sum Kee Noodle to all noodle lovers out there. It's a must-visit for anyone seeking authentic Chinese flavors and impeccable noodle craftsmanship.", "time": "2020-02-29 4:41:37" },
+        { "title": "wombat", "content": "I recently had the pleasure of dining at Lau Sum Kee Noodle and I must say, it exceeded all my expectations. The moment I walked in, I was greeted with warm smiles and a cozy atmosphere. The menu offered a wide variety of noodle dishes, making it difficult to choose just one!<br/> I finally settled on the beef noodle soup and I was blown away. The broth was rich and flavorful, complementing the tender beef and perfectly cooked noodles. Each spoonful was a burst of deliciousness. The attention to detail in the preparation was evident and it truly elevated the dining experience.<br/> Not only was the food exceptional, but the service was also impeccable. The staff was knowledgeable, attentive, and went above and beyond to ensure my dining experience was enjoyable.<br/> Lau Sum Kee Noodle is a true gem for noodle enthusiasts. Whether you're a fan of traditional flavors or looking to try something new and innovative, this place has it all. I can't wait to go back and explore more of their menu. Highly recommended!", "time": "2015-02-25 2:42:22" }
+    ],
+    "suggestions": 3393
+},
+{
+    "id": "Koon_Thai_Hai_Nam_Chicken",
+    "name": { "zh-hk": "泰國人海南雞", "en-us": "Koon Thai Hai Nam Chicken" },
+    "img_url": "img/rests/Koon_Thai_Hai_Nam_Chicken_01.jpg",
+    "img_face":"img/rests/Koon_Thai_Hai_Nam_Chicken_02.jpg",
+    "tts-chi":"audio/Koon_Thai_Hai_Nam_Chicken-chi.MP3",
+    "tts-eng":"audio/Koon_Thai_Hai_Nam_Chicken-eng.MP3",
+    "type": { "zh-hk": "泰式", "en-us": "Thai Style" },
+    "stars": 2.5,
+    "description": { "zh-hk": "一向以街坊小店形式經營的泰國人海南雞除招牌海南雞外，更有一系列泰式沙律。", "en-us": "The Thai owner of a neighborhood small shop, known for their signature Hainanese chicken, also offers a range of Thai Style salads." },
+    "address": { "zh-hk": "深水埗福榮街72號地舖", "en-us": "G/F, 72 Fuk Wing Street, Sham Shui Po" },
+    "google_map_url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3690.5807993648255!2d114.1631174015447!3d22.33168835717304!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340400b4b80808bb%3A0xfb56ff0562e20248!2z5rOw5ZyL5Lq65rW35Y2X6Zue!5e0!3m2!1szh-TW!2sus!4v1692708209957!5m2!1szh-TW!2sus",
+    "phone_number": "26688606",
+    "business_hours": { "mon-fri": "11:30 - 22:00", "sat-sun": "11:30 - 22:00", "holiday": "11:30 - 22:00" },
+    "comment": [
+        { "title": "crab", "content": "Koon Thai Hai Nam Chicken is a popular neighborhood small shop run by a Thai owner. They are known for their delicious Hainanese chicken, as well as a variety of Thai Style salads. The food is flavorful and the service is excellent. I highly recommend trying their signature dish, the Hainanese chicken, which is cooked to perfection and served with fragrant rice and flavorful sauces. The Thai Style salads are also worth trying, with their fresh ingredients and vibrant flavors. Overall, Koon Thai Hai Nam Chicken is a fantastic place to enjoy authentic Thai cuisine in a cozy and welcoming atmosphere.", "time": "2019-01-08 22:50:21" },
+        { "title": "platypus", "content": "Koon Thai Hai Nam Chicken is a charming Thai-owned establishment that specializes in Hainanese chicken. This beloved neighborhood shop offers a delightful array of flavors, including their famous Hainanese chicken, which is renowned for its tender meat and aromatic rice. In addition to their signature dish, Koon Thai Hai Nam Chicken also serves a variety of tantalizing Thai Style salads. These salads are bursting with vibrant colors and bold flavors, combining fresh ingredients with traditional Thai spices and dressings. Whether you're a fan of the succulent Hainanese chicken or craving a refreshing Thai salad, Koon Thai Hai Nam Chicken is a must-visit destination for authentic Thai cuisine. The friendly staff and cozy ambiance further enhance the dining experience, making it a perfect spot for a satisfying meal.", "time": "2007-08-15 6:37:04" }
+    ],
+    "suggestions": 4779
+},
+{
+    "id": "Kung_Fu_Dim_Sum",
+    "name": { "zh-hk": "功夫點心", "en-us": "Kung Fu Dim Sum" },
+    "img_url": "img/rests/Kung_Fu_Dim_Sum_01.jpg",
+    "img_face":"img/rests/Kung_Fu_Dim_Sum_02.jpg",
+    "tts-chi":"audio/Kung_Fu_Dim_Sum-chi.MP3",
+    "tts-eng":"audio/Kung_Fu_Dim_Sum-eng.MP3",
+    "type": { "zh-hk": "港式", "en-us": "Hong Kong Style" },
+    "stars": 3.3,
+    "description": { "zh-hk": "功夫點心是一間廣東點心專門店，於港九新界設有10多間分店。總廚有20多年豐富入廚經驗，曾在本地各大五星級酒店及高級私人會所擔任點心主管，秉承廣東傳統點心手藝。餐廳供應各式蒸點、煎炸美點、即拉腸粉、生滾粥、蒸飯、燉湯、湯麵等。招牌菜有功夫蝦餃皇、蟹子香菇燒賣皇、懷舊綿香馬拉糕、鳳凰煎糯米雞、酥皮香麻蘿蔔餅、蒜香鮮蝦長春。", "en-us": "Kung Fu Dim Sum is a specialized Cantonese dim sum restaurant with over 10 branches located in Hong Kong and Kowloon. The head chef, with over 20 years of extensive culinary experience, has previously worked as a dim sum supervisor in various local five-star hotels and upscale private clubs, upholding the traditional techniques of Cantonese dim sum. The restaurant offers a wide variety of steamed, pan-fried, and deep-fried dim sum, as well as freshly made rice noodle rolls, congee, steamed rice, simmered soups, and noodle soups. Their signature dishes include Kung Fu Shrimp Dumplings, Crab Meat and Mushroom Siu Mai, nostalgic and fluffy Ma Lai Gao (steamed sponge cake), Phoenix-style Pan-fried Glutinous Rice with Chicken, Crispy Sesame Radish Pancake, and Fragrant Garlic Prawn Cheung Fun." },
+    "address": { "zh-hk": "香港深水埗福榮街72號", "en-us": "" },
+    "google_map_url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1845.2912330197712!2d114.1631890656171!3d22.33162536680553!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340400b4c83d3f95%3A0xdf134c7a0e40b3f8!2z5Yqf5aSr6bue5b-D!5e0!3m2!1szh-TW!2sus!4v1692709509613!5m2!1szh-TW!2sus",
+    "phone_number": "28809906",
+    "business_hours": { "mon-fri": "08:00–23:30", "sat-sun": "08:00–23:30", "holiday": "08:00–23:30" },
+    "comment": [
+        { "title": "shrimp", "content": "我是一位點心愛好者，對功夫點心的品質非常滿意。他們的點心口感鮮嫩，味道正宗。我特別喜歡他們的功夫蝦餃皇和蟹子香菇燒賣皇，裡面的餡料豐富多汁，每一口都帶來滿滿的滿足感。此外，他們的綿香馬拉糕也非常好吃，口感軟綿，入口即化。總體而言，功夫點心是我在港九地區品嚐到的最好的廣東點心專門店之一。", "time": "2016-06-14 5:14:23" },
+        { "title": "echidna", "content": "我經常光顧功夫點心，每次都能品嚐到地道的廣東點心美食。他們的餐廳環境舒適，服務態度友好。他們供應的蒸點和煎炸點心種類繁多，口味鮮美，絕對能滿足不同人的口味需求。我最喜歡他們的酥皮香麻蘿蔔餅和蒜香鮮蝦長春，外脆內軟，味道香脆可口。無論是平日的早午餐還是周末的下午茶時光，功夫點心都是一個理想的選擇。我強烈推薦給所有喜愛點心的朋友們。", "time": "2019-04-12 16:48:27" }
+    ],
+    "suggestions": 5505
+},
+{
+    "id": "TW_Yummy",
+    "name": { "zh-hk": "台食館", "en-us": "TW Yummy" },
+    "img_url": "img/rests/TW_Yummy_01.jpg",
+    "img_face":"img/rests/TW_Yummy_02.jpg",
+    "tts-chi":"audio/TW_Yummy-chi.MP3",
+    "tts-eng":"audio/TW_Yummy-eng.MP3",
+    "type": { "zh-hk": "台式", "en-us": "Taiwanese Style" },
+    "stars": 3.5,
+    "description": { "zh-hk": "台食館是一家以台灣傳統美食為主打的餐廳，提供多款道地台灣美食，包括紅燒牛肉麵、滷肉飯、鹽酥魷魚鬚等。店內裝潢簡約，氣氛舒適，是朋友聚會的好去處。台食館現時在旺角、深水埗及油麻地等多個地點都有分店，方便顧客享用美食。", "en-us": "TW Yummy is a restaurant that focuses on Taiwanese traditional cuisine, offering a variety of authentic Taiwanese dishes such as braised beef noodles, minced pork rice, and salt and pepper squid. The interior of the restaurant is simple and the atmosphere is comfortable, making it a great place for friends to gather. TW Yummy currently has multiple branches in locations like Mong Kok, Sham Shui Po, and Yau Ma Tei, making it convenient for customers to indulge in Taiwanese delicacies." },
+    "address": { "zh-hk": "深水埗福榮街64號地舖", "en-us": "G/F, 64 Fuk Wing Street, Sham Shui Po" },
+    "google_map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14762.32905628625!2d114.14433258771791!3d22.331633000000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34040126f06449f9%3A0x2abdda6e82ecd0a6!2z5Y-w6aOf6aSo!5e0!3m2!1szh-TW!2sus!4v1692710107386!5m2!1szh-TW!2sus",
+    "phone_number": "26139019",
+    "business_hours": { "mon-fri": "N/A", "sat-sun": "N/A", "holiday": "N/A" },
+    "comment": [
+        { "title": "clam", "content": "是一个热爱台湾美食的人，对台食馆的菜品非常满意。他们的红烧牛肉面汤汁浓郁，牛肉鲜嫩，面条Q弹有劲，非常地道。滷肉饭也是他们的招牌之一，肉馅饱满多汁，米饭香软可口，每一口都让人回味无穷。此外，他们的鹽酥魷魚鬚也十分美味，外脆内嫩，味道香酥可口。无论是味道还是份量，台食馆都给了我非常满意的体验。我会推荐给喜欢台湾美食的朋友们。", "time": "2018-04-24 14:25:58" },
+        { "title": "crocodile", "content": "我在台食馆度过了一个愉快的用餐体验。他们的菜单上有各种道地的台湾美食，口味地道，给人一种回到台湾的感觉。我特别喜欢他们的红烧牛肉面，牛肉酥烂入味，汤汁浓郁，面条劲道。滷肉饭也是我必点的菜品，肉馅鲜美，米饭香软。鹽酥魷魚鬚也很好吃，外酥内嫩，味道香脆。店内的装潢简约舒适，氛围温馨，适合和朋友一起聚餐。我会再次光顾台食馆，推荐给其他喜欢台湾美食的人。", "time": "2019-02-17 11:41:12" }
+    ],
+    "suggestions": 2373
+},
+{
+    "id": "Thai_Appetizing",
+    "name": { "zh-hk": "泰亞萊海南雞專門店", "en-us": "Thai Appetizing" },
+    "img_url": "img/rests/Thai_Appetizing_01.jpg",
+    "img_face":"img/rests/Thai_Appetizing_02.jpg",
+    "tts-chi":"audio/Thai_Appetizing-chi.MP3",
+    "tts-eng":"audio/Thai_Appetizing-eng.MP3",
+    "type": { "zh-hk": "泰式", "en-us": "Thai Style" },
+    "stars": 3.5,
+    "description": { "zh-hk": "泰亞萊海南雞專門店是一家專注於海南雞的餐廳。他們以提供正宗的海南雞餐點而聞名，為顧客帶來獨特的泰式口味體驗。無論是雞肉的嫩滑口感還是米飯的香氣，都展現了他們對於海南雞烹飪的精湛技藝。餐廳提供多種不同口味和辣度的海南雞，讓顧客可以根據個人喜好選擇。此外，他們的海南雞配料豐富，搭配經典的海南雞醬和新鮮的黃薑醬，使得每一道菜都充滿了濃郁的風味。泰亞萊海南雞專門店以其優質的食材和精心烹製的菜品受到了廣大顧客的喜愛，是品嚐正宗海南雞的絕佳選擇。", "en-us": "Thai Appetizing is a restaurant that specializes in Hainanese chicken. They are well-known for offering authentic Hainanese chicken dishes, providing customers with a unique Thai-inspired flavor experience. Whether it's the tender texture of the chicken or the aroma of the rice, they showcase their mastery of Hainanese chicken cooking techniques. The restaurant offers a variety of Hainanese chicken flavors and spiciness levels, allowing customers to choose according to their preferences. In addition, their Hainanese chicken is accompanied by rich ingredients, complemented by classic Hainanese chicken sauce and fresh turmeric sauce, giving each dish a rich and distinctive flavor. Thai Appetizing has gained popularity among customers for its high-quality ingredients and carefully crafted dishes, making it an excellent choice for experiencing authentic Hainanese chicken." },
+    "address": { "zh-hk": "深水埗福榮街97號地舖", "en-us": "G/F, 97 Fuk Wing Street, Sham Shui Po" },
+    "google_map_url": "https://www.google.com/maps/embed?pb=!4v1692713592231!6m8!1m7!1sqntbGyJOX714gZHIoOHDFw!2m2!1d22.33150651672836!2d114.1633622386254!3f251.36268805297183!4f-16.948383395251113!5f0.7820865974627469",
+    "phone_number": "93248063",
+    "business_hours": { "mon-fri": "11:00 - 22:00", "sat-sun": "11:00 - 22:00", "holiday": "11:00 - 22:00" },
+    "comment": [
+        { "title": "oyster", "content": "我在泰亚莱海南鸡专门店度过了一次美味的用餐体验。他们的海南鸡非常正宗，口感鲜嫩，鸡皮薄脆，肉质鲜美。米饭香气扑鼻，搭配的酱料和黄姜酱调味恰到好处。服务员的态度也非常友好，提供了专业的建议和服务。餐厅的环境干净整洁，氛围舒适，适合与家人和朋友一起享用美食。我特别推荐他们的招牌海南鸡餐套，一口咬下去，美味的滋味让人回味无穷。如果你喜欢海南鸡，我强烈推荐你来尝试泰亚莱海南鸡专门店。", "time": "2020-09-29 7:58:35" },
+        { "title": "turtle", "content": "我是一位海南鸡的忠实粉丝，对泰亚莱海南鸡专门店的菜品非常满意。他们的海南鸡口感嫩滑，肉质鲜美，米饭香气扑鼻。无论是原味海南鸡还是辣味海南鸡，都能满足不同口味的需求。他们的鸡肉烹调得恰到好处，保持了鲜嫩多汁，搭配的酱料也十分地道。此外，他们的配菜也很丰富，搭配海南鸡一起食用更加美味。整体而言，泰亚莱海南鸡专门店是一家值得推荐的海南鸡餐厅。", "time": "2013-05-07 23:37:06" }
+    ],
+    "suggestions": 5801
+},
+{
+    "id": "San_Lung",
+    "name": { "zh-hk": "生龍清湯腩", "en-us": "San Lung" },
+    "img_url": "img/rests/San_Lung_01.jpg",
+    "img_face":"img/rests/San_Lung_02.jpg",
+    "tts-chi":"audio/San_Lung-chi.MP3",
+    "tts-eng":"audio/San_Lung-eng.MP3",
+    "type": { "zh-hk": "港式", "en-us": "Hong Kong Style" },
+    "stars": 3.5,
+    "description": { "zh-hk": "以清湯腩為主，但同時供應多種特式美食。", "en-us": "While specializing in Clear Soup Pork Belly, we also offer a variety of specialty dishes." },
+    "address": { "zh-hk": "深水埗褔榮街99號地舖", "en-us": "G/F, 99 Fuk Wing Street, Sham Shui Po" },
+    "google_map_url": "https://www.google.com/maps/embed?pb=!3m2!1szh-TW!2sus!4v1692711123679!5m2!1szh-TW!2sus!6m8!1m7!1sqntbGyJOX714gZHIoOHDFw!2m2!1d22.33150651672836!2d114.1633622386254!3f249.75510855988554!4f3.624287127016686!5f0.7820865974627469",
+    "phone_number": "27293020",
+    "business_hours": { "mon-fri": "11:00-23:00", "sat-sun": "11:00-23:00", "holiday": "11:00-23:00" },
+    "comment": [
+        { "title": "ant", "content": "我去了这家以清汤腩为主的餐厅，他们的菜品确实让我惊喜不已。清汤腩的猪肚肉质鲜嫩，口感绝佳，汤汁清澈透明，味道鲜美而不腻。而除了清汤腩，他们还提供了许多特色美食供选择，每道菜都有独特的风味和精心的烹饪技巧。无论是鱼香茄子、宫保鸡丁还是红烧狮子头，每一道菜都让我胃口大开。餐厅的服务也非常周到，服务员热情友好，为我们提供了愉快的用餐体验。总的来说，这家餐厅不仅以清汤腩为特色，还提供多样化的特色美食，是一家让人难以忘怀的餐厅。", "time": "2019-05-12 8:52:47" },
+        { "title": "penguin", "content": "我去过这家以清汤腩为主的餐厅，并对他们的菜品留下了深刻的印象。清汤腩的猪肚煮得十分入味，肉质鲜嫩多汁，汤汁清爽可口。除了清汤腩，他们还提供了许多其他特色美食，像是炒饭、炸鸡翅等。这些菜品都经过精心烹调，口味独特，让我大饱口福。餐厅的环境舒适，服务员态度亲切周到，为我们提供了愉快的用餐体验。如果你对清汤腩感兴趣，同时也想尝试其他特色美食，我强烈推荐你来这家餐厅一试。", "time": "2019-01-23 10:04:26" }
+    ],
+    "suggestions": 8314
+},
+{
+    "id": "Cheese_Cafe",
+    "name": { "zh-hk": "芝士冰室", "en-us": "Cheese Cafe" },
+    "img_url": "img/rests/Cheese_Cafe_01.jpg",
+    "img_face":"img/rests/Cheese_Cafe_02.jpg",
+    "tts-chi":"audio/Cheese_Cafe-chi.MP3",
+    "tts-eng":"audio/Cheese_Cafe-eng.MP3",
+    "type": { "zh-hk": "港式", "en-us": "Hong Kong Style" },
+    "stars": 3.6,
+    "description": { "zh-hk": "撈麵更用上了五種芝士，包括橙車打芝士、瑞士大孔芝士、寶伐朗芝士、意大利藍芝士、莫薩里拉製成招牌芝士汁，如果喜歡重口味，可以選擇鹹蛋黃芝士汁、蒜香芝士汁，味道會更重。", "en-us": "The noodle dish is further enhanced with five types of cheese, including Cheddar, Swiss, Gorgonzola, Blue Cheese, and Mozzarella, blended together to create the signature cheese sauce. For those who enjoy stronger flavors, they can opt for the salted egg yolk cheese sauce or garlic cheese sauce, which intensify the taste." },
+    "address": { "zh-hk": "深水埗福榮街101號地舖", "en-us": "G/F, 101 Fuk Wing Street, Sham Shui Po" },
+    "google_map_url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14762.366268189106!2d114.1632963!3d22.3312814!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404013c9139a149%3A0xa9ae001ef9a0de6c!2z6Iqd5aOr5Yaw5a6k!5e0!3m2!1szh-TW!2shk!4v1692711528419!5m2!1szh-TW!2shk",
+    "phone_number": "28278578",
+    "business_hours": { "mon-fri": "07:00–22:00", "sat-sun": "07:00–22:00", "holiday": "07:00–22:00" },
+    "comment": [
+        { "title": "bee", "content": "我在這家餐廳品嚐了撈麵，他們的五種芝士搭配讓我驚艷不已。橙車打芝士、瑞士大孔芝士、寶伐朗芝士、意大利藍芝士和莫薩里拉的組合營造出濃郁的芝士汁，味道豐富而濃郁。如果你喜歡重口味，他們的鹹蛋黃芝士汁和蒜香芝士汁絕對是不容錯過的選擇，能夠帶來更濃郁的味道體驗。整體而言，這家餐廳的撈麵是一道令人回味無窮的美食，芝士愛好者絕對不能錯過。", "time": "2018-11-10 23:54:48" },
+        { "title": "pelican", "content": "我嘗試了這家餐廳的撈面，並且他們的五種芝士搭配給我留下了深刻的印象。橙車打芝士、瑞士大孔芝士、寶伐朗芝士、意大利藍芝士和莫薩里拉的混合搭配，創造出豐富濃郁的芝士醬汁，味道令人驚喜。如果你喜歡重口味，他們的鹹蛋黃芝士汁和蒜香芝士汁絕對能滿足你的口味偏好，帶來更加濃郁的味道享受。總的來說，這家餐廳的撈面是一道讓人難以忘懷的美食，特別適合芝士愛好者品嚐。", "time": "2008-04-08 5:20:26" }
+    ],
+    "suggestions": 7273
+},
+{
+    "id": "Grandma's_spicy_and_hot",
+    "name": { "zh-hk": "嫲嫲辣辣", "en-us": "Grandma's spicy and hot" },
+    "img_url": "img/rests/Grandma's_spicy_and_hot_01.jpg",
+    "img_face":"img/rests/Grandma's_spicy_and_hot_02.jpg",
+    "tts-chi":"audio/Grandma's_spicy_and_hot-chi.MP3",
+    "tts-eng":"audio/Grandma's_spicy_and_hot-eng.MP3",
+    "type": { "zh-hk": "其他", "en-us": "Other" },
+    "stars": 4,
+    "description": { "zh-hk": "主打惹味川菜，其中賣相紅噹噹的麻辣干鍋是招牌菜式，可以自選配料和鍋底。另外招牌酸菜魚、地獄炒肥腸、重慶毛血旺、回鍋肉等料理都值得一試，各位愛辣人士就不要錯過啦！", "en-us": "Specializing in flavorful Sichuan cuisine, the restaurant offers a signature dish called \"Spicy and Hot Dry Pot,\" which is visually appealing with its vibrant red appearance. Customers can choose their preferred ingredients and base for the dry pot. Additionally, their signature dishes such as Sour and Spicy Fish, Stir-Fried Intestines in Hell Sauce, Chongqing Spicy Blood Tofu, Twice-Cooked Pork, and more are all worth trying. Spicy food enthusiasts shouldn't miss out on these delectable dishes!" },
+    "address": { "zh-hk": "深水埗福榮街105號地下", "en-us": "G/F, 105 Fuk Wing Street, Sham Shui Po" },
+    "google_map_url": "https://www.google.com/maps/embed?pb=!4v1692712957465!6m8!1m7!1sl2YiaonlYbSW-Zy08avGFQ!2m2!1d22.33162536680553!2d114.1631890656171!3f217.4818685889717!4f-7.153299636328043!5f0.7820865974627469",
+    "phone_number": "23944332",
+    "business_hours": { "mon-fri": "11:30 - 16:45&<br/> 17:30 - 22:15", "sat-sun": "11:30 - 16:45&<br/> 17:30 - 22:15", "holiday": "11:30 - 16:45&<br/> 17:30 - 22:15" },
+    "comment": [
+        { "title": "butterfly", "content": "我在這家專門賣川菜的餐廳用餐，他們的麻辣乾鍋是他們的招牌菜，色彩鮮艷，非常吸引人。除此之外，他們的招牌酸菜魚、地獄炒肥腸、重慶毛血旺和回鍋肉等菜品也是絕對值得一試的。對於愛辣的人來說，這裡絕對是一個不能錯過的地方。他們的菜品口味獨特，辣味十足，真的讓人垂涎三尺。餐廳的服務也非常好，環境舒適，讓人感到舒服和放鬆。總的來說，這家餐廳提供的川菜美食給我留下了深刻的印象，我強烈推薦來這裡品嚐這些美味的菜品。", "time": "2019-12-05 0:49:03" },
+        { "title": "owl", "content": "我去了這家主打川菜的餐廳，他們的麻辣乾鍋確實是招牌菜式，色澤鮮豔，讓人垂涎欲滴。最棒的是，他們提供自選配料和鍋底的服務，讓客人可以根據自己的口味喜好來定制。此外，他們的招牌酸菜魚、地獄炒肥腸、重慶毛血旺和回鍋肉等菜品也非常值得一試。對於喜愛辣味的人來說，這裡絕對是一個不能錯過的地方。整體而言，這家餐廳提供的川菜美食令人驚艷，給人一種辣味和風味的享受。", "time": "2018-03-14 11:04:40" }
+    ],
+    "suggestions": 2924
+},
+{
+    "id": "Man_Kee_Cart_Noodle",
+    "name": { "zh-hk": "文記車仔麵", "en-us": "Man Kee Cart Noodle" },
+    "img_url": "img/rests/Man_Kee_Cart_Noodle _01.jpg",
+    "img_face":"img/rests/Man_Kee_Cart_Noodle_02.jpg",
+    "tts-chi":"audio/Man_Kee_Cart_Noodle-chi.MP3",
+    "tts-eng":"audio/Man_Kee_Cart_Noodle-eng.MP3",
+    "type": { "zh-hk": "港式", "en-us": "Hong Kong Style" },
+    "stars": 3.9,
+    "description": { "zh-hk": "車仔麵為香港傳統麵食，因早期小販以改裝的手推車販售而得其名。說起這道充滿港式情懷的小吃，就不得不提文記。文記車仔麵在同一條街設有三家店，三間店鋪都經常大排長龍，受歡迎程度可見一斑。餐廳提供各式各樣的麵食、湯頭和配料，現點現煮，價廉物美。特別推薦柱侯牛腩和瑞士汁雞翅，還有獨門特製的辣椒醬，令人一吃上癮。這些美食更令文記獲《2018米芝蓮指南》街頭小吃推薦。", "en-us": "Cart noodles, a traditional noodle dish in Hong Kong, derived its name from the early vendors who sold them from modified pushcarts. When it comes to this snack filled with Hong Kong nostalgia, one cannot overlook Man Kee. Man Kee Cart Noodle has three shops on the same street, and all three establishments often have long queues, indicating their popularity. The restaurant offers a wide variety of noodles, soup bases, and toppings, prepared to order, and is known for its affordability and quality. Highly recommended are the Braised Beef Brisket in Chu Hou Sauce, Swiss Chicken Wings in Cheese Sauce, and their unique homemade chili sauce, which is addictive. These dishes have earned Man Kee a recommendation in the 2018 Michelin Street Food Guide." },
+    "address": { "zh-hk": "深水埗福榮街121號地舖", "en-us": "G/F, 121 Fuk Wing Street, Sham Shui Po" },
+    "google_map_url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14762.317086127654!2d114.1627354!3d22.3317461!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x340400b4b122c27d%3A0x1769e1f18a859612!2z5paH6KiY6LuK5LuU6bq1!5e0!3m2!1szh-TW!2shk!4v1692712865018!5m2!1szh-TW!2shk",
+    "phone_number": "90595104",
+    "business_hours": { "mon-fri": "11:00 - 04:00", "sat-sun": "11:00 - 04:00", "holiday": "11:00 - 04:00" },
+    "comment": [
+        { "title": "dragonfly", "content": "每次到香港，我都會去文記車仔麵品嚐一碗正宗的港式小吃。他們在同一條街上擁有三家分店，總是人潮湧動，生意火爆。他們提供各種口味的麵食、湯頭和配料，現場烹調，價格實惠，品質優良。我特別推薦他們的柱侯牛腩和瑞士汁雞翅，還有他們獨門的辣椒醬，一吃就上癮。這些美食的口味和質量都非常出色，所以不奇怪他們被2018年米芝蓮指南推薦為街頭小吃之一。如果你正在香港旅遊，絕對不能錯過文記車仔麵，它將帶給你一個地道的港式味覺體驗。", "time": "2016-09-27 23:07:39" },
+        { "title": "eagle", "content": "文記車仔麵是我在香港最喜歡的小吃之一。他們的三家分店總是人滿為患，顯示出他們的受歡迎程度。他們提供各種不同口味的麵條、湯底和配料，現場烹調，價格實惠。我個人強烈推薦他們的柱侯牛腩和瑞士汁雞翅，這些菜品的味道非常美味，令人回味無窮。此外，他們自家製作的辣椒醬也非常特別，增添了菜品的風味。我對文記車仔麵的評價非常高，他們的美食不僅口感出色，而且還獲得了2018年米芝蓮指南的推薦，這足以證明他們的品質和口碑。無論你是當地居民還是遊客，我都強烈推薦你去品嚐一碗文記車仔麵，這將是一個令人愉悅的體驗。", "time": "2013-02-07 5:30:43" }
+    ],
+    "suggestions": 3677
+},
+{
+    "id": "Shanghai_Man_Ka_Chuen_Restaurant",
+    "name": { "zh-hk": "上海萬家村小館", "en-us": "Shanghai Man Ka Chuen Restaurant" },
+    "img_url": "img/rests/Shanghai_Man_Ka_Chuen_Restaurant_01.jpg",
+    "img_face":"img/rests/Shanghai_Man_Ka_Chuen_Restaurant_02.jpg",
+    "tts-chi":"audio/Shanghai_Man_Ka_Chuen_Restaurant-chi.MP3",
+    "tts-eng":"audio/Shanghai_Man_Ka_Chuen_Restaurant-eng.MP3",
+    "type": { "zh-hk": "中式", "en-us": "Chinese Style" },
+    "stars": 4,
+    "description": { "zh-hk": "提供正宗的上海菜聞名。該餐廳以傳統的上海菜為基礎，融合了現代創新的烹飪技巧和口味，為食客帶來獨特而美味的餐飲體驗。", "en-us": "Shanghai Wanjiacun Xiaoguan is renowned for offering authentic Shanghainese cuisine. The restaurant is known for its foundation in traditional Shanghai dishes while incorporating modern and innovative cooking techniques and flavors, providing diners with a unique and delicious dining experience." },
+    "address": { "zh-hk": "深水埗福榮街117號地舖", "en-us": "G/F, 117 Fuk Wing Street, Sham Shui Po" },
+    "google_map_url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14762.33700460912!2d114.1628546!3d22.3315579!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3404013d5708fe81%3A0xefdc02332dd42118!2z5LiK5rW36JCs5a625p2R!5e0!3m2!1szh-TW!2shk!4v1692713411448!5m2!1szh-TW!2shk",
+    "phone_number": "36145562",
+    "business_hours": { "mon-fri": "11:30 - 23:00", "sat-sun": "11:30 - 23:00", "holiday": "11:30 - 23:00" },
+    "comment": [
+        { "title": "moth", "content": "上海萬家村小館是我在上海最喜歡的餐廳之一。他們提供的上海菜非常地道，每一道菜都令人垂涎欲滴。他們將傳統的上海菜和現代創新的烹飪技巧相結合，味道獨特而美味。我特別推薦他們的紅燒獅子頭和蔥油拌面，口感鮮美。餐廳的氛圍十分舒適，服務態度也非常好，讓我感到很受歡迎。如果你想要品味正宗的上海美食，上海萬家村小館絕對是一個不容錯過的好選擇。", "time": "2018-08-11 11:43:23" },
+        { "title": "hawk", "content": "我非常喜歡上海萬家村小館的菜品！他們提供的上海菜非常正宗，味道讓我回味無窮。他們將傳統的上海菜融合了現代烹飪技巧和口味，呈現出獨特而美味的菜餚。我特別喜歡他們的小籠包和蟹粉獅子頭，每次光顧必點的菜品。餐廳的環境舒適，服務也很友好，讓我感到宾至如歸。如果你想要品嚐正宗的上海菜，我強烈推薦上海萬家村小館。", "time": "2008-12-22 23:15:09" }
+    ],
+    "suggestions": 5354
+}
+]

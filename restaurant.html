@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <meta name="description"
+    content="「深水埗區美食指南」是一個介紹深水埗區美食的網站。在這裡，您可以找到深水埗區的各種美食，包括平民美食、特色小店和 Cafe，還有地道民間美食。如果您想了解深水埗區的美食和好去處，歡迎來到「深水埗區美食指南」。">
+  <meta name="keywords" content="深水埗, 美食, 指南,餐廳,好去處">
+  <link rel="icon" href="img/logo/sham_shui_po_food_guide_Logo-tran.png" type="image/png" alt="Website Logo">
+  <link rel="shortcut icon" href="img/logo/sham_shui_po_food_guide_Logo-tran.png" type="image/png" alt="Website Logo">
+  <title>深水埗區美食指南</title>
+</head>
+  
+<body>
+  <div id="top"></div>
+  <header class="chinese hide-in-printonly"></header>
+  <nav class="chinese hide-in-printonly"></nav>
+  <div class="container" id="main">
+    <div id="tts-chi"></div>
+    <div id="rest-photo-and-buttom">
+      <div id="rest-photo-and-introdution"></div>
+    </div>
+    <a class="yellow-btn desktop hide-in-textonly" onClick="changeImage()"><svg xmlns="http://www.w3.org/2000/svg" height="1em"
+        viewBox="0 0 448 512">
+        <path
+          d="M9.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.2 288 416 288c17.7 0 32-14.3 32-32s-14.3-32-32-32l-306.7 0L214.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z" />
+      </svg></a>
+    <a class="yellow-btn desktop hide-in-textonly" onClick="changeImage()"><svg xmlns="http://www.w3.org/2000/svg" height="1em"
+        viewBox="0 0 448 512">
+        <path
+          d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z" />
+      </svg></a>
+  
+  <div id="rest-divs">
+    <div id="rest-left-div">
+    </div>
+    <div id="rest-right-div">
+      <h2>食評</h2>
+      <div id="comment-boxes">
+      </div>
+      <div id=conditions>
+        (以上食評乃用戶個人意見 , 並不代表香港美食協會之觀點。)
+        <hr class="hr">
+      </div>
+      <form>
+        <input id="title-input" class="yellow-input" required />
+        <textarea id="content-input" class="yellow-textarea" required></textarea>
+        <a class="yellow-btn desktop" href="#top">提交</a>
+        <input class="yellow-btn" type="reset" />
+      </form>
+    </div>
+  </div>
+  <button class="show-in-printonly" show-href="." onClick="onTogglePrintonly()">返回</button>
+    <a class="hide-in-printonly yellow-btn desktop" href="#top">回到置頂</a>
+  </div>
+  </div>
+  </div>
+  <footer class="chinese hide-in-printonly"></footer>
+  <script id="tts-chi-template" type="x-tmpl-mustache">
+    <audio controls class="show-in-textonly">
+    <source src="{{ tts-chi }}" type="audio/mpeg">
+  你的瀏覽器不支援音頻元素。<a href="{{ tts-chi }}">這裏能下載音頻。</a>
+    </script>
+  <script id="rest-photo-and-introdution-template" type="x-tmpl-mustache">
+        <div id="rest-photo">
+            <img class="hide-in-textonly" id="rest-image" src="{{ img_url }}" alt="restaurant photo">
+        </div>
+    <div id="rest-introduction">
+            <h1>{{ name.zh-hk }}</h1>
+            <div class="hide-in-textonly" id="stars">
+                
+            </div>
+            <div id="star-num">{{ stars }}/5</div>
+            <div id="rest-type">{{ type.zh-hk }}</div>
+            <div id="rest-description">{{{ description.zh-hk }}}</div>
+        </div>
+    </script>
+  <script id="left-div-template" type="x-tmpl-mustache">
+      <h2>地址</h2>
+        <div id="zh-address">{{ address.zh-hk }}</div>  
+        <div id="en-address">{{ address.en-us }}</div>
+        <iframe
+            class="hide-in-textonly"
+            src="{{ google_map_url }}"
+            width="100%" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <h2>電話號碼</h2>
+        <h3 id="rest-num">
+            {{ phone_number }}
+        </h3>
+        <h2>營業時間</h2>
+        <table class="rest-timetable">
+            <tr>
+                <td>星期一至五</td>
+                <td align="right">{{{ business_hours.mon-fri }}}</td>
+            </tr>
+            <tr>
+                <td>星期六至日</td>
+                <td align="right">{{{ business_hours.sat-sun }}}</td>
+            </tr>
+            <tr>
+                <td>公眾假期</td>
+                <td align="right">{{{ business_hours.holiday }}}</td>
+            </tr>
+        </table>
+    </script>
+  <script id="comment-box-template" type="x-tmpl-mustache">
+        <div class="comment-box">
+            <hr class="hr">
+            <div class="comment-title">{{ title }}</div>
+            <div class="comment-content">{{{ content }}}</div>
+        </div>
+    </script>
+  <script src="https://unpkg.com/mustache@latest"></script>
+  <script src="script.js"></script>
+  <script src="script/restaurant.js">
+  </script>
+  <script src="script/changegimg.js"></script>
+</body>
+
+</html>
